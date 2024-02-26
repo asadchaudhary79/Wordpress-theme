@@ -1,6 +1,6 @@
 #drowan-wordpress-theme 
 
-=== drowan | WPCodeX ===
+=== drowan | DevStitch ===
 
 Tags: two-columns, blog, news, custom-background, custom-logo, custom-header, custom-menu, grid-layout, entertainment, editor-style, block-styles, rtl-language-support, featured-image-header, featured-images, flexible-header, custom-colors, full-width-template, sticky-post, threaded-comments, translation-ready, theme-options, one-column, left-sidebar, right-sidebar, three-columns
 Requires at least: 5.2
